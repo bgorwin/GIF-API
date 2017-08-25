@@ -2,7 +2,7 @@
 $(document).ready(function(){
 
 
-      var itemsToSearch = ["cat", "dog"];
+      var itemsToSearch = ["Cat", "Vans", "Nikon", "Pug", "Nike", "Taco", "Simpsons"];
 
       // Function for displaying movie data
       function renderButtons() {
@@ -89,7 +89,7 @@ $(document).ready(function(){
 
 
             // Appending the paragraph and image tag to the animalDiv
-            resultDiv.append(p);
+            // resultDiv.append(p);
             resultDiv.append(resultImage);
 
             // Prependng the animalDiv to the HTML page in the "#gifs-appear-here" div

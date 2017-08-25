@@ -1,24 +1,51 @@
-.container {
-  width: 0 auto;
-  height: 0 auto;
-  margin-top: 20px;
-  border: 1px solid grey;
-  background-color: white;
-}
-
-#addGif {
-  margin-bottom: 20px;
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 button {
   margin-left: 10px;
-  margin-bottom: 10px;
+  /*margin-bottom: 10px;*/
+}
+
+form {
+  width: 300px;
+  color: white;
+}
+
+img {
+  float: left;
+  padding: 5px;
+}
+
+.row {
+  padding: 1%;
+}
+
+.container {
+  width: 0 auto;
+  height: 90%;
+  margin-top: 20px;
+  border-radius: 15px;
+}
+
+.input-field label {
+  top: 5px;
+  font-size: 17px;
 }
 
 #addGif {
   margin-left: 10px;
 }
 
+#gif-input {
+  font-size: 20px;
+}
+
 #gifs-appear-here {
   margin-left: 10px;
+  width: 100%;
+  overflow-y: scroll;
+  height: 300px;
+  float: left;
 }
