@@ -27,6 +27,7 @@ img {
   height: 90%;
   margin-top: 20px;
   border-radius: 15px;
+
 }
 
 .input-field label {
@@ -35,7 +36,7 @@ img {
 }
 
 #addGif {
-  margin-left: 10px;
+  margin-left: 1%;
 }
 
 #gif-input {
@@ -48,6 +49,4 @@ img {
   overflow-y: scroll;
   height: 425px;
   float: left;
-
-
 }
