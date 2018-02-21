@@ -2,7 +2,7 @@
 $(document).ready(function(){
 
 
-      var itemsToSearch = ["Cat", "Vans", "Nikon", "Pug", "Nike", "Taco", "Simpsons"];
+      var itemsToSearch = ["Cat", "Vans", "Nikon", "Pug", "Nike", "Taco"];
 
       // Function for displaying movie data
       function renderButtons() {
