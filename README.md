@@ -9,6 +9,7 @@ Search for a GIF! A user can search for the a Gif and add a button to the list. 
 <li>To add a button, click on the "Search For A GIF" bar and type in what you want to see.</li>
 <li>Click, "Add A Button" to add it to the list.</li>
 <li>Click on a button you and 10 GIF's will appear!</li>
+  <li>Click on the GIF to have it animate, click again to stop it.</li>
 </ul>
 
 <h4>To view this application, please click the link https://bgorwin.github.io/GIF-API/ </h4>
